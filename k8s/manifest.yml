@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app-movement
-        image: polyglotxt/nodejs-aws-movement:1
+        image: loaizamateo96/nodejs-aws-movement:3
         ports:
         - containerPort: 8080
         env:
