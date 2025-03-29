@@ -21,7 +21,7 @@ spec:
         - containerPort: 8080
         env:
         - name: NACOS_SERVERADDR
-          value: "18.216.235.222:8848"
+          value: "3.133.60.253:8848"
         - name: NACOS_NAMESPACE
           value: "polyglot"
         - name: NACOS_IDENTITYKEY
